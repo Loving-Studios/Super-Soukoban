@@ -21,6 +21,8 @@ _Loving Studios Team logo_
 
 ## Members Loving Studios
 
+As a small development group the two members have worked on all aspects of the game and have divided the work evenly
+
 Pablo Sanjosé [XXPabloS](https://github.com/XXPabloS)
 
 SHORT DESCRIPTION
