@@ -17,3 +17,9 @@ If you want more information about the game, check the following link: https://g
 <img src="https://raw.githubusercontent.com/Loving-Studios/Super-Soukoban/main/Logo.png" width="500" height="500">
 
 _Loving Studios Team logo_
+
+## Members Loving Studios
+
+Pablo Sanjosé [XXPabloS](https://github.com/XXPabloS)
+
+Víctor González [TheWolfG145](https://github.com/TheWolfG145)
