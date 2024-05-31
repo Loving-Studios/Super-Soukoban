@@ -22,4 +22,15 @@ _Loving Studios Team logo_
 
 Pablo Sanjosé [XXPabloS](https://github.com/XXPabloS)
 
+SHORT DESCRIPTION
+
 Víctor González [TheWolfG145](https://github.com/TheWolfG145)
+
+SHORT DESCRIPTION
+
+## Gameplay Video
+
+Embedded gameplay video
+
+## Link to Latest release
+
