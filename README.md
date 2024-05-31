@@ -11,3 +11,9 @@ Developed by Thinking Rabbit, this game follows the blueprint set by the origina
 While Super Soukoban remains a hidden gem, it unfortunately never ventured beyond the borders of Japan.
 
 If you want more information about the game, check the following link: https://github.com/Loving-Studios/Super-Soukoban/wiki
+
+## Loving Studios: Super Soukoban
+
+<img src="https://raw.githubusercontent.com/Loving-Studios/Super-Soukoban/main/Logo.png" width="500" height="500">
+
+_Loving Studios Team logo_
