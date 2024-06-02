@@ -33,6 +33,9 @@ Víctor González
 
 ## Gameplay Video
 
+[![Watch Gameplay Video](assets/thumbnail.png)]([https://www.youtube.com/watch?v=YourVideoID](https://youtu.be/Fxztxi4CtqY?si=8mN_5fsvE3lVdIOZ))
+
+
 [[Embedded gameplay video](https://youtu.be/Fxztxi4CtqY)](https://www.youtube.com/watch?v=Fxztxi4CtqY&t=1s)
 
 ## Link to Latest release
