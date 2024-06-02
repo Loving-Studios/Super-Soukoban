@@ -33,7 +33,8 @@ Víctor González
 
 ## Gameplay Video
 
-[Embedded gameplay video](https://youtu.be/Fxztxi4CtqY)
+[[Embedded gameplay video](https://youtu.be/Fxztxi4CtqY)](https://www.youtube.com/watch?v=Fxztxi4CtqY&t=1s)
 
 ## Link to Latest release
 
+https://github.com/Loving-Studios/Super-Soukoban/releases/download/v1.0/LovingStudios_SuperSoukoban_v1.0.zip
