@@ -23,13 +23,13 @@ _Loving Studios Team logo_
 
 As a small development group the two members have worked on all aspects of the game and have divided the work evenly
 
-Pablo Sanjosé [XXPabloS](https://github.com/XXPabloS)
+Pablo Sanjosé 
+- [XXPabloS](https://github.com/XXPabloS)
+- - Code / Management
 
-SHORT DESCRIPTION
-
-Víctor González [TheWolfG145](https://github.com/TheWolfG145)
-
-SHORT DESCRIPTION
+Víctor González 
+-[TheWolfG145](https://github.com/TheWolfG145)
+- Code / Design
 
 ## Gameplay Video
 
