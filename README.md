@@ -25,7 +25,7 @@ As a small development group the two members have worked on all aspects of the g
 
 Pablo Sanjosé 
 - [XXPabloS](https://github.com/XXPabloS)
-- - Code / Management
+- Code / Management
 
 Víctor González 
 -[TheWolfG145](https://github.com/TheWolfG145)
