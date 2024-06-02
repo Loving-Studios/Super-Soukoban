@@ -33,7 +33,7 @@ Víctor González
 
 ## Gameplay Video
 
-Embedded gameplay video
+[Embedded gameplay video](https://youtu.be/Fxztxi4CtqY)
 
 ## Link to Latest release
 
