@@ -41,3 +41,7 @@ Víctor González
 ## Link to Latest release
 
 https://github.com/Loving-Studios/Super-Soukoban/releases/download/v1.0/LovingStudios_SuperSoukoban_v1.0.zip
+
+## Link to All releases
+
+https://github.com/Loving-Studios/Super-Soukoban/releases
