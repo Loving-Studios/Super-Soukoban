@@ -45,3 +45,7 @@ https://github.com/Loving-Studios/Super-Soukoban/releases/download/v1.0/LovingSt
 ## Link to All releases
 
 https://github.com/Loving-Studios/Super-Soukoban/releases
+
+## Link to web
+
+https://loving-studios.github.io/Super-Soukoban/
